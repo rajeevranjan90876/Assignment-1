@@ -1,0 +1,1 @@
+The purpose of comments in HTML is to provide a way for developers to include explanatory notes or remarks within the HTML code. its not rendered the comments code.

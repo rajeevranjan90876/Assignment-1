@@ -1,0 +1,10 @@
+Tag - Tags are the building blocks of HTML.
+      They are enclosed in angle brackets (<>).
+      They tell the browser how to interpret and display content.
+      Ex-
+         <P>- opening tag   </P>- closing tag
+
+Element - Element are created by enclosing content within tags.
+          An element consists of both the opening and closing tags, along with the content in between. 
+          Ex-
+          <P>This is paragraph</P>
